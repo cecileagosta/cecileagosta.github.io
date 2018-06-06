@@ -4,8 +4,10 @@ email: cecile.agosta@gmail.com
 description: >
   Cécile Agosta webpage
 
-baseurl: "/welcome" # the subpath of your site, e.g. /blog/
-url: https://cecileagosta.github.io/welcome # the base hostname & protocol for your site
+production_url: http://cecileagosta.github.io/welcome
+BASE_PATH: http://username.github.io/welcome
+#baseurl: "/welcome" # the subpath of your site, e.g. /blog/
+#url: https://cecileagosta.github.io/welcome # the base hostname & protocol for your site
 git_address: https://github.com/cecileagosta/cecileagosta.github.io
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
