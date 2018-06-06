@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /docs/publications/
+permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 ##### IN PREPARATION

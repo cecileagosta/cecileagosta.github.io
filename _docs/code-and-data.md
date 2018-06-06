@@ -1,6 +1,6 @@
 ---
 title: Shared code and data
-permalink: /docs/code-and-data/
+permalink: /code-and-data/
 ---
 ##### THE REGIONAL CLIMATE MODEL MAR
 MAR code source is available at: [www.mar.cnrs.fr](http://www.mar.cnrs.fr/){:target="_blank"}.  
