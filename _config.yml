@@ -6,7 +6,7 @@ description: >
 
 baseurl: "/welcome" # the subpath of your site, e.g. /blog/
 url: https://cecileagosta.github.io/welcome # the base hostname & protocol for your site
-# git_address: https://github.com/aksakalli/jekyll-doc-theme
+git_address: https://github.com/cecileagosta/cecileagosta.github.io
 # git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
@@ -16,7 +16,7 @@ bootwatch: paper
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
