@@ -85,4 +85,3 @@ permalink: /publications/
 2) Gallée H., Trouvilliez A., **Agosta C.**, Genthon C., Favier V., & Naaim-Bouvet, F.(2012). Transport de la neige par le vent en Terre Adélie (Antarctique) : observation et modélisation avec le Modèle Atmosphérique Régional (MAR). *Actes du 25e colloque de l’Association Internationale de Climatologie*, [permalink](http://hdl.handle.net/2268/190506).
 
 1) Dupeyrat A., **Agosta C.**, Sauquet E., & Hendrickx F. (2008). Sensibilité aux variations climatiques d'un bassin à forts enjeux - Le cas de la Garonne. *IWRA 13th World Water Congress*, [permalink](http://hdl.handle.net/2268/196750).
-```
