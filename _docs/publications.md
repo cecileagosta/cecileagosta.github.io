@@ -19,11 +19,11 @@ permalink: /publications/
 
 19) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (submitted 17 May 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere Discussions*.
 
-##### PUBLISHED OR ACCEPTED
+##### PUBLISHED
 
 **2018**
 
-18) Shepherd A., Ivins E.R. and the IMBIE team including **Agosta C.** (accepted 24 April 2018). Mass balance of the Antarctic ice sheet from 1992 to 2017. *Nature*.
+18) The IMBIE team (2018) Mass balance of the Antarctic Ice Sheet from 1992 to 2017. *Nature*, 558, 219–222, [doi:10.1038/s41586-018-0179-y](https://doi.org/10.1038/s41586-018-0179-y).
 
 **2017**
 
