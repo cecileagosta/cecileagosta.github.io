@@ -5,9 +5,11 @@ permalink: /publications/
 #### INTERNATIONAL JOURNALS
 ##### IN PREPARATION
 
-24) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
+25) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
 
 ##### IN REVIEW
+
+24) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
 
 23) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (in review, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
 
@@ -79,6 +81,8 @@ permalink: /publications/
 ---
 
 #### CONFERENCE PROCEEDINGS
+
+4) Biette M., Jomelli V.,  Favier V., Chenet M., **Agosta C.**, Fettweis X.,  Ho Tong Minh D., & Ose K. (2018). Estimation des températures au début du dernier millénaire dans l’ouest du Groenland : résultats préliminaires issus de l’application d’un modèle glaciologique de type degré‑jour sur le glacier du Lyngmarksbræen. *Actes des 18ème journées des Jeunes Géomorphologues*, 24, 1, [link](https://journals.openedition.org/geomorphologie/11977).
 
 3) **Agosta C.**, Fettweis X., & Gallée H. (2015). Contribution du bilan de masse de surface Antarctique à l’évolution du niveau des mers avec le modèle atmosphérique régional MAR. *Actes du 28e colloque de l’Association Internationale de Climatologie*, [permalink](http://hdl.handle.net/2268/190507).
 
