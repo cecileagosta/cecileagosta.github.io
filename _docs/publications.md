@@ -17,7 +17,7 @@ permalink: /publications/
 
 21) Delhasse A., Fettweis X., Kittel C., Amory C., & **Agosta C.** (in review, 2018). Brief communication: Impact of the recent atmospheric circulation change in summer on the future surface mass balance of the Greenland ice sheet. *The Cryosphere Discussions*, 1–13, [doi:10.5194/tc-2018-65](https://doi.org/10.5194/tc-2018-65).
 
-20) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (submitted 17 May 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere Discussions*.
+20) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (in review, 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere Discussions*, 1-19, [doi:10.5194/tc-2018-106](https://doi.org/10.5194/tc-2018-106).
 
 19) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
 
