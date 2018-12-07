@@ -13,17 +13,17 @@ permalink: /publications/
 
 23) Bréant C., Leroy Dos Santos C., Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., **Agosta C.**, Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (submitted 9 May 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
 
-22) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (in review, 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere Discussions*, 1-19, [doi:10.5194/tc-2018-106](https://doi.org/10.5194/tc-2018-106).
-
-21) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
+22) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
 
 ##### PUBLISHED
 
 **2018**
 
-20) Datta R.T., Tedesco M., **Agosta C.**, Fettweis X., Kuipers Munneke P., & van den Broeke M.R. (2018) Melting over the East Antarctic Peninsula (1999-2009): evaluation of a high-resolution regional climate model. *The Cryosphere*, 12, 2901-2922, [doi:10.5194/tc-12-2901-2018](https://doi.org/10.5194/tc-12-2901-2018).
+21) Datta R.T., Tedesco M., **Agosta C.**, Fettweis X., Kuipers Munneke P., & van den Broeke M.R. (2018) Melting over the East Antarctic Peninsula (1999-2009): evaluation of a high-resolution regional climate model. *The Cryosphere*, 12, 2901-2922, [doi:10.5194/tc-12-2901-2018](https://doi.org/10.5194/tc-12-2901-2018).
 
-19) Delhasse A., Fettweis X., Kittel C., Amory C., & **Agosta C.** (2018). Brief communication: Impact of the recent atmospheric circulation change in summer on the future surface mass balance of the Greenland Ice Sheet. *The Cryosphere*, 12, 3409-3418, [doi:10.5194/tc-12-3409-2018](https://doi.org/10.5194/tc-12-3409-2018).
+20) Delhasse A., Fettweis X., Kittel C., Amory C., & **Agosta C.** (2018). Brief communication: Impact of the recent atmospheric circulation change in summer on the future surface mass balance of the Greenland Ice Sheet. *The Cryosphere*, 12, 3409-3418, [doi:10.5194/tc-12-3409-2018](https://doi.org/10.5194/tc-12-3409-2018).
+
+19) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (in review, 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere*, 3827-3839, [doi:10.5194/tc-12-3827-2018](https://doi.org/10.5194/tc-12-3827-2018).
 
 18) The IMBIE team (2018) Mass balance of the Antarctic Ice Sheet from 1992 to 2017. *Nature*, 558, 219–222, [doi:10.1038/s41586-018-0179-y](https://doi.org/10.1038/s41586-018-0179-y).
 
