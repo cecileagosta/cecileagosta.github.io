@@ -9,7 +9,7 @@ permalink: /publications/
 
 ##### IN REVIEW
 
-25) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (Minor Revisions, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
+25) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (Minor Revision, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
 
 24) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
