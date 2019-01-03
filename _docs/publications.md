@@ -5,11 +5,13 @@ permalink: /publications/
 #### INTERNATIONAL JOURNALS
 ##### IN PREPARATION
 
-25) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
+26) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
 
 ##### IN REVIEW
 
-24) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (in review, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
+25) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (Minor Revisions, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
+
+24) Beaumet J., Déqué M., Krinner G., **Agosta C.**,& Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
 23) Bréant C., Leroy Dos Santos C., Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., **Agosta C.**, Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (submitted 9 May 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
 
