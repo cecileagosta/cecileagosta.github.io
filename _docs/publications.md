@@ -25,7 +25,7 @@ permalink: /publications/
 
 20) Delhasse A., Fettweis X., Kittel C., Amory C., & **Agosta C.** (2018). Brief communication: Impact of the recent atmospheric circulation change in summer on the future surface mass balance of the Greenland Ice Sheet. *The Cryosphere*, 12, 3409-3418, [doi:10.5194/tc-12-3409-2018](https://doi.org/10.5194/tc-12-3409-2018).
 
-19) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (in review, 2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere*, 3827-3839, [doi:10.5194/tc-12-3827-2018](https://doi.org/10.5194/tc-12-3827-2018).
+19) Kittel C., Amory C., **Agosta C.**, Delhasse A., Huot P.-V., Fichefet T., & Fettweis X. (2018). Sensitivity of the current Antarctic surface mass balance to sea surface conditions using MAR. *The Cryosphere*, 3827-3839, [doi:10.5194/tc-12-3827-2018](https://doi.org/10.5194/tc-12-3827-2018).
 
 18) The IMBIE team (2018) Mass balance of the Antarctic Ice Sheet from 1992 to 2017. *Nature*, 558, 219–222, [doi:10.1038/s41586-018-0179-y](https://doi.org/10.1038/s41586-018-0179-y).
 
