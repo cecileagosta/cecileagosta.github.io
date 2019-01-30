@@ -18,6 +18,7 @@ permalink: /publications/
 ##### PUBLISHED
 
 **2019**
+
 22) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes, The Cryosphere, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
 
 **2018**
