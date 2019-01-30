@@ -9,15 +9,16 @@ permalink: /publications/
 
 ##### IN REVIEW
 
-25) **Agosta C.**, Amory C., Kittel C., Orsi A., Favier V., Gallée H., van den Broeke M.R., Lenaerts J.T., van Wessem J.M., & Fettweis X. (Minor Revision, 2018). Estimation of the Antarctic surface mass balance using MAR (1979-2015) and identification of dominant processes. *The Cryosphere Discussions*, 1–22, [doi:10.5194/tc-2018-76](https://doi.org/10.5194/tc-2018-76).
+25) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
-24) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
+24) Bréant C., Leroy Dos Santos C., Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., **Agosta C.**, Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (submitted 9 May 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
 
-23) Bréant C., Leroy Dos Santos C., Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., **Agosta C.**, Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (submitted 9 May 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
-
-22) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
+23) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
 
 ##### PUBLISHED
+
+**2019**
+22) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes, The Cryosphere, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
 
 **2018**
 
