@@ -9,11 +9,16 @@ permalink: /publications/
 
 ##### IN REVIEW
 
-25) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
+26) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
-24) Bréant C., Leroy Dos Santos C., Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., **Agosta C.**, Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (submitted 9 May 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
+25) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
 
-23) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
+##### ACCEPTED
+
+24) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (accepted 5 Mar. 2018). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*.
+
+23) Datta R. T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
+Lenaerts J.T.M., Wever N. (accepted, 4 Feb. 2019). Connection Between Foehn-Induced Surface Melt and Firn Evolution over the Northeast Antarctic Peninsula from a Regional Climate Model. *Geophysical Research Letters*.
 
 ##### PUBLISHED
 
