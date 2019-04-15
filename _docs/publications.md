@@ -22,7 +22,7 @@ permalink: /publications/
 23) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (2019). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*, 514, 37–47, [doi:10.1016/j.epsl.2019.03.004](https://doi.org/10.1016/j.epsl.2019.03.004). 
 
 22) Datta R. T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
-Lenaerts J.T.M., Wever N. (accepted, 4 Feb. 2019). Connection Between Foehn-Induced Surface Melt and Firn Evolution over the Northeast Antarctic Peninsula from a Regional Climate Model. *Geophysical Research Letters*, [doi:10.1029/2018GL080845](https://doi.org/10.1029/2018GL080845).
+Lenaerts J.T.M., Wever N. (2019). Connection Between Foehn-Induced Surface Melt and Firn Evolution over the Northeast Antarctic Peninsula from a Regional Climate Model. *Geophysical Research Letters*, [doi:10.1029/2018GL080845](https://doi.org/10.1029/2018GL080845).
 
 **2018**
 
