@@ -3,26 +3,38 @@ title: Publications
 permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
+
 ##### IN PREPARATION
 
-26) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
+30) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
+
+##### SUBMITTED
+
+29) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (Submitted, Aug. 13, 2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*.
 
 ##### IN REVIEW
 
-26) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42 [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
+28) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42, [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
-25) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (submitted 14 June 2018). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*.
+27) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (in review, 2019). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
+
+##### ACCEPTED
+
+26) Wille J.D., Favier V., Dufour A., Gorodetskaya I.V., Turner J., **Agosta C.**, Codron F. (Accepted, July 4, 2019). West Antarctic surface melt triggered by atmospheric rivers. *Nature Geoscience*.
 
 ##### PUBLISHED
 
 **2019**
 
-24) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes, The Cryosphere, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
+25) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes, The Cryosphere, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
 
-23) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (2019). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*, 514, 37–47, [doi:10.1016/j.epsl.2019.03.004](https://doi.org/10.1016/j.epsl.2019.03.004). 
+24) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (2019). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*, 514, 37–47, [doi:10.1016/j.epsl.2019.03.004](https://doi.org/10.1016/j.epsl.2019.03.004). 
 
-22) Datta R. T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
+23) Datta R. T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
 Lenaerts J.T.M., Wever N. (2019). Connection Between Foehn-Induced Surface Melt and Firn Evolution over the Northeast Antarctic Peninsula from a Regional Climate Model. *Geophysical Research Letters*, [doi:10.1029/2018GL080845](https://doi.org/10.1029/2018GL080845).
+
+22) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (2019). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*, Online First, [doi:10.1007/s00382-019-04904-z](https://doi.org/10.1007/s00382-019-04904-z).
+
 
 **2018**
 
