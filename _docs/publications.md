@@ -8,11 +8,9 @@ permalink: /publications/
 
 30) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
 
-##### SUBMITTED
-
-29) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (Submitted, Aug. 13, 2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*.
-
 ##### IN REVIEW
+
+29) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (in review, 2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
 
 28) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42, [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
 
