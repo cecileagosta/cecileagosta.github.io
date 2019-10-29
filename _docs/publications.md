@@ -30,7 +30,7 @@ Lenaerts J.T.M., Wever N. (2019). The Effect of Foehn‐Induced Surface Melt on 
 
 23) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (2019). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*, 53, 9-10, 5909–5925 [doi:10.1007/s00382-019-04904-z](https://doi.org/10.1007/s00382-019-04904-z).
 
-22) Wille J.D., Favier V., Dufour A., Gorodetskaya I.V., Turner J., **Agosta C.**, Codron F. (Accepted, July 4, 2019). West Antarctic surface melt triggered by atmospheric rivers. *Nature Geoscience*, 338, 1-6, [doi:10.1038/s41561-019-0460-1](https://doi.org/10.1038/s41561-019-0460-1).
+22) Wille J.D., Favier V., Dufour A., Gorodetskaya I.V., Turner J., **Agosta C.**, Codron F. (2019). West Antarctic surface melt triggered by atmospheric rivers. *Nature Geoscience*, 1-6, early release [doi:10.1038/s41561-019-0460-1](https://doi.org/10.1038/s41561-019-0460-1).
 
 **2018**
 
