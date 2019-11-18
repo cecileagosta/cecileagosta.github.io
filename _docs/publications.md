@@ -12,16 +12,15 @@ permalink: /publications/
 
 29) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (in review, 2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
 
-28) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (in review, 2018). Effect of uncertainties of Southern Ocean surface temperature and sea-ice change on Antarctic climate projections, *The Cryosphere Discussions*, 1–42, [doi:10.5194/tc-2018-231](https://doi.org/10.5194/tc-2018-231).
-
-27) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (in review, 2019). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
-
+28) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (in review, 2019). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
 
 ##### PUBLISHED
 
 **2019**
 
-26) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes, The Cryosphere, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
+27) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes. *The Cryosphere*, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
+
+26) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (2019). Effect of prescribed sea surface conditions on the modern and future Antarctic surface climate simulated by the ARPEGE atmosphere general circulation model. *The Cryosphere*, 13, 3023–3043, [doi:10.5194/tc-13-3023-2019](https://doi.org/10.5194/tc-13-3023-2019).
 
 25) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (2019). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*, 514, 37–47, [doi:10.1016/j.epsl.2019.03.004](https://doi.org/10.1016/j.epsl.2019.03.004). 
 
