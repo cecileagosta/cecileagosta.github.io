@@ -17,15 +17,15 @@ permalink: /publications/
 
 = ISMIP6 papers =
 
-35) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
-
 34) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
 
-33) Seroussi H. et al. (submitted to *The Cryosphere*) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. 1-32.
+31) Goelzer H. et al. (submitted to *The Cryosphere*) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. 1-24.
 
 32) Nowicki S. et al. (submitted to *The Cryosphere*) Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. 1-24.
 
-31) Goelzer H. et al. (submitted to *The Cryosphere*) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. 1-24.
+35) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
+
+33) Seroussi H. et al. (submitted to *The Cryosphere*) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. 1-32.
 
 
 ##### ACCEPTED
