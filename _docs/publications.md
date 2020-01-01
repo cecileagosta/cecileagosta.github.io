@@ -6,17 +6,40 @@ permalink: /publications/
 
 ##### IN PREPARATION
 
-30) **Agosta C.**, Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
+38) **Agosta C.**, Kittel C., Amory C. Added value of the regional climate model MAR compared to reanalyses for estimating the Antarctic surface climate, 1979-2017 (Version 0.1.0). Zenodo. [doi:10.5281/zenodo.1256079](http://doi.org/10.5281/zenodo.1256079).
 
-##### IN REVIEW
 
-29) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (in review, 2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
+##### SUBMITTED
 
-28) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (in review, 2019). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
+37) Mottram R. H., Hansen N., Kittel C., van Wessem M., **Agosta C.**, Amory C., Boberg F., van de Berg W. J., Fettweis X., Gossart A., van Lipzig N., van Meijgaard E., Orr A., Phillips T., Webster S., and Simonsen S. (submitted to *The Cryosphere*). What is the Surface Mass Balance of Antarctica? An Intercomparison of five high resolution Regional Climate Models. 1-37.
+
+36) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
+
+= ISMIP6 papers =
+
+35) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
+
+34) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
+
+33) Seroussi H. et al. (submitted to *The Cryosphere*) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. 1-32.
+
+32) Nowicki S. et al. (submitted to *The Cryosphere*) Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. 1-24.
+
+31) Goelzer H. et al. (submitted to *The Cryosphere*) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. 1-24.
+
+
+##### ACCEPTED
+
+30) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (accepted). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
+
+29) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (accepted). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
+
 
 ##### PUBLISHED
 
 **2019**
+
+28) The IMBIE team (2019) Mass balance of the Greenland Ice Sheet from 1992 to 2018. *Nature*, 1–25, [doi:10.1038/s41586-019-1855-2](https://doi.org/10.1038/s41586-019-1855-2)
 
 27) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes. *The Cryosphere*, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
 
