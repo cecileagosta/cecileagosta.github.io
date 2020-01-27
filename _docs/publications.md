@@ -34,9 +34,9 @@ permalink: /publications/
 
 **2020**
 
-30) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (accepted). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere Discussion*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
+30) Barthel A., **Agosta C.**, Little C., Hatterman T., Jourdain N.C., Goelzer H., Nowicki S., Seroussi H., Straneo F., and Bracegirdle T. (2020, accepted). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. *The Cryosphere*, 1-34, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
 
-29) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (accepted). Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. *The Cryosphere Discussions*, 1–35, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
+29) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
 **2019**
 
