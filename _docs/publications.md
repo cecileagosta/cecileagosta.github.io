@@ -15,13 +15,19 @@ permalink: /publications/
 
 35) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
 
-34) Goelzer H. et al. (submitted to *The Cryosphere*) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. 1-24.
+34) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
 
-33) Nowicki S. et al. (submitted to *The Cryosphere*) Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. 1-24.
 
-32) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
+##### IN DISCUSSION
 
-31) Seroussi H. et al. (submitted to *The Cryosphere*) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. 1-32.
+
+= ISMIP6 papers =
+
+33) Goelzer H. et al. (in review, 2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-319](https://doi.org/10.5194/tc-2019-319)
+
+32) Nowicki S. et al. (in review, 2020) Experimental protocol for sealevel projections from ISMIP6 standalone ice sheet models. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-322](https://doi.org/10.5194/tc-2019-322)
+
+31) Seroussi H. et al. (in review, 2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
 
 
 ##### PUBLISHED
@@ -47,7 +53,7 @@ Lenaerts J.T.M., Wever N. (2019). The Effect of Foehn‐Induced Surface Melt on 
 
 23) Verfaillie D., Favier V., Gallée H., Fettweis X., **Agosta C.**, & Jomelli V. (2019). Regional modeling of surface mass balance on the Cook Ice Cap, Kerguelen Islands (49°S, 69°E). *Climate Dynamics*, 53, 9-10, 5909–5925 [doi:10.1007/s00382-019-04904-z](https://doi.org/10.1007/s00382-019-04904-z).
 
-22) Wille J.D., Favier V., Dufour A., Gorodetskaya I.V., Turner J., **Agosta C.**, Codron F. (2019). West Antarctic surface melt triggered by atmospheric rivers. *Nature Geoscience*, 1-6, early release [doi:10.1038/s41561-019-0460-1](https://doi.org/10.1038/s41561-019-0460-1).
+22) Wille J.D., Favier V., Dufour A., Gorodetskaya I.V., Turner J., **Agosta C.**, Codron F. (2019). West Antarctic surface melt triggered by atmospheric rivers. *Nature Geoscience*,  12, 911–916 [doi:10.1038/s41561-019-0460-1](https://doi.org/10.1038/s41561-019-0460-1).
 
 **2018**
 
