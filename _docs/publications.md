@@ -7,19 +7,18 @@ permalink: /publications/
 
 ##### SUBMITTED
 
-37) Mottram R. H., Hansen N., Kittel C., van Wessem M., **Agosta C.**, Amory C., Boberg F., van de Berg W. J., Fettweis X., Gossart A., van Lipzig N., van Meijgaard E., Orr A., Phillips T., Webster S., and Simonsen S. (submitted to *The Cryosphere*). What is the Surface Mass Balance of Antarctica? An Intercomparison of five high resolution Regional Climate Models. 1-37.
-
-36) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
+37) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
 
 = ISMIP6 papers =
 
-35) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
+36) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
 
-34) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
+35) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
 
 
 ##### IN DISCUSSION
 
+34) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N. (in review, 2020) What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*,[doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
 = ISMIP6 papers =
 
