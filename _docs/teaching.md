@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ##### SEMINAR OF ENSTA COURSE MF204: CLIMATE CHANGE
 Second year of ENSTA engineering school. Given in 2019 and 2020. Webpage of the course [here](https://ecampus.paris-saclay.fr/course/view.php?id=18625).  
-Each student choose his own climate topic in a region s·he defines. S·he uses global climate model outputs from the CMIP dataset to study the evolution of a chosen climate variable from 1850 to 2100, and compare it to the modelled internal variability.  
+Each student choose his·er own climate topic in a region s·he defines. S·he uses global climate model outputs from the CMIP dataset to study the evolution of a chosen climate variable from 1850 to 2100, and compare it to the modelled internal variability.  
 The jupyter notebook I developped for this seminar and the needed data are available [here](https://drive.google.com/open?id=1JirPWvPpEUSHSKtB4vsopvIUql1e0egA).
 
 ##### INTRODUCTION TO THE ANTARCTIC CLIMATE
