@@ -7,11 +7,11 @@ permalink: /publications/
 
 ##### SUBMITTED
 
-39) Donat-Magnin M., Jourdain N. C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (submitted to *The Cryosphere*). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. 1-23.
+39) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (submitted to *The Cryosphere*). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. 1-23.
 
-38) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
+38) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J.A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
 
-37) Servettaz A. P. M., Orsi A. J., Curran M. A. J., Moy A. D., Landais A., **Agosta C.**, Winton V. H. L., Touzeau A., McConnell J. R., Werner M., Baroni M. (submitted to *JGR: Atmospheres*). Snowfall and water stable isotope variability in East Antarctica controlled by warm synoptic events. 1-24.
+37) Servettaz A.P.M., Orsi A.J., Curran M.A.J., Moy A.D., Landais A., **Agosta C.**, Winton V.H.L., Touzeau A., McConnell J.R., Werner M., Baroni M. (submitted to *JGR: Atmospheres*). Snowfall and water stable isotope variability in East Antarctica controlled by warm synoptic events. 1-24.
 
 
 = ISMIP6 papers =
@@ -23,7 +23,7 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
-34) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N. (in review, 2020) What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*,[doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
+34) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020) What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
 = ISMIP6 papers =
 
@@ -38,19 +38,19 @@ permalink: /publications/
 
 **2020**
 
-30) Barthel, A., **Agosta, C.**, Little, C. M., Hattermann, T., Jourdain, N. C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
+30) Barthel, A., **Agosta, C.**, Little, C.M., Hattermann, T., Jourdain, N.C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T.J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
 
 29) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
 **2019**
 
-28) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M. R., Lenaerts, J. T. M., van Wessem, J. M., van de Berg, W. J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes. *The Cryosphere*, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
+28) **Agosta, C.**, Amory, C., Kittel, C., Orsi, A., Favier, V., Gallée, H., van den Broeke, M.R., Lenaerts, J.T.M., van Wessem, J.M., van de Berg, W.J., and Fettweis, X. (2019) Estimation of the Antarctic surface mass balance using the regional climate model MAR (1979–2015) and identification of dominant processes. *The Cryosphere*, 13, 281-296, [doi:10.5194/tc-13-281-2019](https://doi.org/10.5194/tc-13-281-2019).
 
 27) Beaumet J., Déqué M., Krinner G., **Agosta C.**, & Alias A. (2019). Effect of prescribed sea surface conditions on the modern and future Antarctic surface climate simulated by the ARPEGE atmosphere general circulation model. *The Cryosphere*, 13, 3023–3043, [doi:10.5194/tc-13-3023-2019](https://doi.org/10.5194/tc-13-3023-2019).
 
 26) Bréant C., Leroy Dos Santos C., **Agosta C.**, Casado M., Fourré E., Goursaud S., Masson-Delmotte V., Favier V., Cattani O., Prie F., Golly B., Orsi A., Martinerie P., & Landais A. (2019). Coastal water vapor isotopic composition driven by katabatic wind variability in summer at Dumont d'Urville, coastal East Antarctica. *Earth and Planetary Science Letters*, 514, 37–47, [doi:10.1016/j.epsl.2019.03.004](https://doi.org/10.1016/j.epsl.2019.03.004). 
 
-25) Datta R. T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
+25) Datta R.T., Tedesco M., Fettweis X., **Agosta C.**, Lhermitte S.,
 Lenaerts J.T.M., Wever N. (2019). The Effect of Foehn‐Induced Surface Melt on Firn Evolution Over the Northeast Antarctic Peninsula. *Geophysical Research Letters*, 46, 7, 3822-3831 [doi:10.1029/2018GL080845](https://doi.org/10.1029/2018GL080845).
 
 24) The IMBIE team (2019) Mass balance of the Greenland Ice Sheet from 1992 to 2018. *Nature*, 1–25, [doi:10.1038/s41586-019-1855-2](https://doi.org/10.1038/s41586-019-1855-2)
