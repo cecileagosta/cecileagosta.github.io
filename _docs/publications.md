@@ -7,7 +7,12 @@ permalink: /publications/
 
 ##### SUBMITTED
 
-37) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
+39) Donat-Magnin M., Jourdain N. C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (submitted to *The Cryosphere*). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. 1-23.
+
+38) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J. A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (submitted to *Environmental Research Letters*). Detecting a forced signal in satellite-era sea level change. 1-15.
+
+37) Servettaz A. P. M., Orsi A. J., Curran M. A. J., Moy A. D., Landais A., **Agosta C.**, Winton V. H. L., Touzeau A., McConnell J. R., Werner M., Baroni M. (submitted to *JGR: Atmospheres*). Snowfall and water stable isotope variability in East Antarctica controlled by warm synoptic events. 1-24.
+
 
 = ISMIP6 papers =
 
