@@ -29,20 +29,20 @@ permalink: /publications/
 
 33) Goelzer H. et al. (in review, 2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-319](https://doi.org/10.5194/tc-2019-319)
 
-32) Seroussi H. et al. (in review, 2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
-
 
 ##### PUBLISHED
 
 **2020**
 
-31) Barthel, A., **Agosta, C.**, Little, C.M., Hattermann, T., Jourdain, N.C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T.J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
+32) Barthel, A., **Agosta, C.**, Little, C.M., Hattermann, T., Jourdain, N.C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T.J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
 
-30) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
+31) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
 = ISMIP6 papers =
 
-29) Nowicki S. et al. (accepted, 29 May 2020) Experimental protocol for sealevel projections from ISMIP6 standalone ice sheet models. *The Cryosphere*, [doi:10.5194/tc-2019-322](https://doi.org/10.5194/tc-2019-322)
+30) Nowicki S. et al. (accepted, 29 May 2020) Experimental protocol for sealevel projections from ISMIP6 standalone ice sheet models. *The Cryosphere*, [doi:10.5194/tc-2019-322](https://doi.org/10.5194/tc-2019-322)
+
+29) Seroussi H. et al. (accepted, 10 June 2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
 
 **2019**
 
