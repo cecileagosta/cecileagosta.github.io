@@ -7,37 +7,37 @@ permalink: /publications/
 
 ##### SUBMITTED
 
-39) Servettaz A.P.M., Orsi A.J., Curran M.A.J., Moy A.D., Landais A., **Agosta C.**, Winton V.H.L., Touzeau A., McConnell J.R., Werner M., Baroni M. (submitted to *JGR: Atmospheres*). Snowfall and water stable isotope variability in East Antarctica controlled by warm synoptic events. 1-24.
-
 = ISMIP6 papers =
 
-38) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
+39) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
 
-37) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
+38) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
 
 
 ##### IN DISCUSSION
 
-36) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (in review, 2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-113](https://tc.copernicus.org/preprints/tc-2020-113/)
+37) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (in review, 2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-113](https://tc.copernicus.org/preprints/tc-2020-113/)
 
-35) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
+36) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
 
 ##### PUBLISHED
 
 **2020**
 
-34) Barthel, A., **Agosta, C.**, Little, C.M., Hattermann, T., Jourdain, N.C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T.J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
+35) Barthel, A., **Agosta, C.**, Little, C.M., Hattermann, T., Jourdain, N.C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T.J. (2020) CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica, *The Cryosphere*, 14, 855–879, [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
 
-33) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
+34) Donat-Magnin M., Jourdain N.C., Gallée H., Amory C., Kittel C., Fettweis X., Wille J.D., Favier V., Drira A., & **Agosta C.** (2020). Interannual variability of summer surface mass balance and surface melting in the Amundsen sector, West Antarctica. *The Cryosphere*, 14, 229–249, [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
-32) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J.A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (2020). Detecting a forced signal in satellite-era sea level change. *Environmental Research Letters*, published online, [doi:10.1088/1748-9326/ab986e](https://doi.org/10.1088/1748-9326/ab986e)
+33) Richter K., Meyssignac B., Slangen A.B.A., Melet A., Church J.A., Fettweis X., Marzeion B., **Agosta C.**, Ligtenberg S.R.M., Spada G., Palmer M.D., Roberts C.D., Champollion N. (2020). Detecting a forced signal in satellite-era sea level change. *Environmental Research Letters*, published online, [doi:10.1088/1748-9326/ab986e](https://doi.org/10.1088/1748-9326/ab986e)
+
+32) Servettaz A.P.M., Orsi A.J., Curran M.A.J., Moy A.D., Landais A., **Agosta C.**, Winton V.H.L., Touzeau A., McConnell J.R., Werner M., Baroni M. (submitted to *JGR: Atmospheres*).  Snowfall and water stable isotope variability in East Antarctica controlled by warm synoptic events. *Journal of Geophysical Research: Atmospheres*, 125, e2020JD032863. [doi:10.1029/2020JD032863](https://doi.org/10.1029/2020JD032863)
 
 = ISMIP6 papers =
 
 31) Goelzer H. et al. (accepted, 2 July 2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. *The Cryosphere*, [doi:10.5194/tc-2019-319](https://doi.org/10.5194/tc-2019-319)
 
-30) Nowicki S. et al. (accepted, 29 May 2020) Experimental protocol for sealevel projections from ISMIP6 standalone ice sheet models. *The Cryosphere*, [doi:10.5194/tc-2019-322](https://doi.org/10.5194/tc-2019-322)
+30) Nowicki, S., Goelzer, H., Seroussi, H., Payne, A. J., Lipscomb, W. H., Abe-Ouchi, A., **Agosta, C.**, Alexander, P., Asay-Davis, X. S., Barthel, A., Bracegirdle, T. J., Cullather, R., Felikson, D., Fettweis, X., Gregory, J. M., Hattermann, T., Jourdain, N. C., Kuipers Munneke, P., Larour, E., Little, C. M., Morlighem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R. S., Straneo, F., Trusel, L. D., van den Broeke, M. R., and van de Wal, R.: Experimental protocol for sea level projections from ISMIP6 stand-alone ice sheet models. *The Cryosphere*, 14, 2331–2368, [doi:10.5194/tc-14-2331-2020](https://doi.org/10.5194/tc-14-2331-2020).
 
 29) Seroussi H. et al. (accepted, 10 June 2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. *The Cryosphere*, [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
 
