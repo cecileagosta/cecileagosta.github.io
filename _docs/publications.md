@@ -37,11 +37,11 @@ permalink: /publications/
 
 = ISMIP6 community papers =
 
-30) Goelzer H. et al. (accepted, 2 July 2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6. *The Cryosphere*, [doi:10.5194/tc-2019-319](https://doi.org/10.5194/tc-2019-319)
+30) Goelzer H. et al. (2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6, The Cryosphere, 14, 3071–3096, [doi:10.5194/tc-14-3071-2020](https://doi.org/10.5194/tc-14-3071-2020)
 
 29) Nowicki, S., Goelzer, H., Seroussi, H., Payne, A. J., Lipscomb, W. H., Abe-Ouchi, A., **Agosta, C.**, Alexander, P., Asay-Davis, X. S., Barthel, A., Bracegirdle, T. J., Cullather, R., Felikson, D., Fettweis, X., Gregory, J. M., Hattermann, T., Jourdain, N. C., Kuipers Munneke, P., Larour, E., Little, C. M., Morlighem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R. S., Straneo, F., Trusel, L. D., van den Broeke, M. R., and van de Wal, R.: Experimental protocol for sea level projections from ISMIP6 stand-alone ice sheet models. *The Cryosphere*, 14, 2331–2368, [doi:10.5194/tc-14-2331-2020](https://doi.org/10.5194/tc-14-2331-2020).
 
-28) Seroussi H. et al. (accepted, 10 June 2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. *The Cryosphere*, [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
+28) Seroussi H. et al. (2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century, The Cryosphere, 14, 3033–3070, [doi:10.5194/tc-14-3033-2020](https://doi.org/10.5194/tc-14-3033-2020)
 
 **2019**
 
