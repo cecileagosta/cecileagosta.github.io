@@ -5,16 +5,9 @@ permalink: /publications/
 #### INTERNATIONAL JOURNALS
 
 
-##### SUBMITTED
-
-= ISMIP6 community papers =
-
-39) Edwards T. et al. (submitted to *Nature*) Quantifying uncertainties in the land ice contribution to sea level rise this century. 1-17.
-
-38) Payne et al. (submitted to *Geophysical Research Letters*) Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. 1-10.
-
-
 ##### IN DISCUSSION
+
+38) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (in review, 2020). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-291](https://doi.org/10.5194/tc-2020-291)
 
 37) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (in review, 2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-113](https://tc.copernicus.org/preprints/tc-2020-113/)
 
