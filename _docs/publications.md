@@ -7,9 +7,12 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
-38) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (in review, 2020). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-291](https://doi.org/10.5194/tc-2020-291)
+39)  Beaumet, J., Déqué, M., Krinner, G., Agosta, C., Alias, A., and Favier, V. (in review, 2020). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-307](https://doi.org/10.5194/tc-2020-307)
 
-37) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (in review, 2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-113](https://tc.copernicus.org/preprints/tc-2020-113/)
+
+38) Donat-Magnin M., Jourdain N.C., Kittel C., **Agosta C.**, Amory C., Gallée H., Krinner G., Chekki M. (in review, 2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-113](https://tc.copernicus.org/preprints/tc-2020-113/)
+
+37) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (in review, 2020). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-291](https://doi.org/10.5194/tc-2020-291)
 
 36) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
