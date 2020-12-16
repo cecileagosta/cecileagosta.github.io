@@ -7,6 +7,8 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
+40) Amory, C., Kittel, C., Le Toumelin, L., Agosta, C., Delhasse, A., Favier, V., and Fettweis, X. (in review, 2020) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adelie Land, East Antarctica, *Geosci. Model Dev. Discuss.*, [doi:10.5194/gmd-2020-368](https://doi.org/10.5194/gmd-2020-368)
+
 39)  Beaumet, J., Déqué, M., Krinner, G., Agosta, C., Alias, A., and Favier, V. (in review, 2020). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-307](https://doi.org/10.5194/tc-2020-307)
 
 
