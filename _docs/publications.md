@@ -7,21 +7,24 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
-40) Amory, C., Kittel, C., Le Toumelin, L., Agosta, C., Delhasse, A., Favier, V., and Fettweis, X. (in review, 2020) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adelie Land, East Antarctica, *Geosci. Model Dev. Discuss.*, [doi:10.5194/gmd-2020-368](https://doi.org/10.5194/gmd-2020-368)
+41) Amory, C., Kittel, C., Le Toumelin, L., Agosta, C., Delhasse, A., Favier, V., and Fettweis, X. (in review, 2020) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adelie Land, East Antarctica, *Geosci. Model Dev. Discuss.*, [doi:10.5194/gmd-2020-368](https://doi.org/10.5194/gmd-2020-368)
 
-39)  Beaumet, J., Déqué, M., Krinner, G., Agosta, C., Alias, A., and Favier, V. (in review, 2020). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-307](https://doi.org/10.5194/tc-2020-307)
+40)  Beaumet, J., Déqué, M., Krinner, G., Agosta, C., Alias, A., and Favier, V. (in review, 2020). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-307](https://doi.org/10.5194/tc-2020-307)
 
-38) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
+39) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
 
 ##### PUBLISHED
 
 **2021**
 
-37) Donat-Magnin, M., Jourdain, N. C., Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
+38) Donat-Magnin, M., Jourdain, N. C., Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
 
 
-36) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere*, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
+37) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere*, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
+
+36) Wille, J. D., Favier, V., Gorodetskaya, I. V., **Agosta, C.**, Kittel, C., Beeman, J. C., et al. (2021). Antarctic atmospheric river climatology and precipitation impacts. *Journal of Geophysical Research: Atmospheres*, 126, e2020JD033788. [doi:10.1029/2020JD033788](https://doi. org/10.1029/2020JD033788)
+  
 
 **2020**
 
