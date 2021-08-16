@@ -8,8 +8,6 @@ permalink: /publications/
 ##### IN DISCUSSION
 
 
-42)  Beaumet, J., Déqué, M., Krinner, G., Agosta, C., Alias, A., and Favier, V. (in review, 2020). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections, *The Cryosphere Discuss.*, [doi:10.5194/tc-2020-307](https://doi.org/10.5194/tc-2020-307)
-
 41) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
 
 
@@ -17,9 +15,11 @@ permalink: /publications/
 
 **2021**
 
-40) Amory, C., Kittel, C., Le Toumelin, L., Agosta, C., Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
+41)  Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021)
 
-39) Donat-Magnin, M., Jourdain, N. C., Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
+40) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
+
+39) Donat-Magnin, M., Jourdain, N. C., Kittel, C., **Agosta, C.**, Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
 
 38) Edwards, T. L. et al. (2021) Projected land ice contributions to twenty-first-century sea level rise. *Nature*, 593, 74–82, [doi:10.1038/s41586-021-03302-y](https://www.nature.com/articles/s41586-021-03302-y)
 
