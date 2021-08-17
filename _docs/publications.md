@@ -8,18 +8,17 @@ permalink: /publications/
 
 **2021**
 
-42) Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., Agosta, C., Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface mass balance of Antarctica? An intercomparison of regional climate model estimates (2021), The Cryosphere, 15, 3751–3784, [doi:10.5194/tc-15-3751-2021](https://doi.org/10.5194/tc-15-3751-2021).
+42) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
 
+41) Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021).
 
-41)  Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021).
+40) Donat-Magnin, M., Jourdain, N. C., Kittel, C., **Agosta, C.**, Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
 
-40) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
+39) Edwards, T. L. et al. (2021) Projected land ice contributions to twenty-first-century sea level rise. *Nature*, 593, 74–82, [doi:10.1038/s41586-021-03302-y](https://www.nature.com/articles/s41586-021-03302-y)
 
-39) Donat-Magnin, M., Jourdain, N. C., Kittel, C., **Agosta, C.**, Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
+38) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere*, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
 
-38) Edwards, T. L. et al. (2021) Projected land ice contributions to twenty-first-century sea level rise. *Nature*, 593, 74–82, [doi:10.1038/s41586-021-03302-y](https://www.nature.com/articles/s41586-021-03302-y)
-
-37) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere*, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
+37) Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., Agosta, C., Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface mass balance of Antarctica? An intercomparison of regional climate model estimates (2021), The Cryosphere, 15, 3751–3784, [doi:10.5194/tc-15-3751-2021](https://doi.org/10.5194/tc-15-3751-2021).
 
 36) Wille, J. D., Favier, V., Gorodetskaya, I. V., **Agosta, C.**, Kittel, C., Beeman, J. C., et al. (2021). Antarctic atmospheric river climatology and precipitation impacts. *Journal of Geophysical Research: Atmospheres*, 126, e2020JD033788. [doi:10.1029/2020JD033788](https://doi. org/10.1029/2020JD033788)
   
