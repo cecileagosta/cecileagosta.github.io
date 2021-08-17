@@ -4,18 +4,14 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
-
-##### IN DISCUSSION
-
-
-41) Mottram, R., Hansen, N., Kittel, C., van Wessem, M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W.J., Fettweis, X., Gossart, A., van Lipzig, N.P.M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S.B., and Souverijns, N. (in review, 2020). What is the Surface Mass Balance of Antarctica? An Intercomparison of Regional Climate Model Estimates. *The Cryosphere Discuss.*, [doi:10.5194/tc-2019-333](https://doi.org/10.5194/tc-2019-333)
-
-
 ##### PUBLISHED
 
 **2021**
 
-41)  Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021)
+42) Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., Agosta, C., Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface mass balance of Antarctica? An intercomparison of regional climate model estimates (2021), The Cryosphere, 15, 3751–3784, [doi:10.5194/tc-15-3751-2021](https://doi.org/10.5194/tc-15-3751-2021).
+
+
+41)  Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021).
 
 40) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
 
