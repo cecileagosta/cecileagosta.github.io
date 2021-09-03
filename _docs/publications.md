@@ -6,7 +6,7 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
-Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021, in review) Clouds drive differences in future surface melt over the Antarctic ice shelves, _The Cryosphere Discuss._ [preprint], [doi:10.5194/tc-2021-263](https://doi.org/10.5194/tc-2021-263). 
+Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021, in review) Clouds drive differences in future surface melt over the Antarctic ice shelves, _The Cryosphere Discuss._ [preprint], [doi:10.5194/tc-2021-263](https://tc.copernicus.org/preprints/tc-2021-263/).
 
 ##### PUBLISHED
 
