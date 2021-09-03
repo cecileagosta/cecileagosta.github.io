@@ -14,16 +14,17 @@ permalink: /publications/
 
 41) Donat-Magnin, M., Jourdain, N. C., Kittel, C., **Agosta, C.**, Amory, C., Gallée, H., Krinner, G., and Chekki, M. (2021). Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, *The Cryosphere*, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021).
 
-40) Edwards, T. L. et al. (2021) Projected land ice contributions to twenty-first-century sea level rise. *Nature*, 593, 74–82, [doi:10.1038/s41586-021-03302-y](https://www.nature.com/articles/s41586-021-03302-y)
+40) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, _The Cryosphere_, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
 
-39) Kittel, C., Amory, C., **Agosta, C.**, Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, *The Cryosphere*, 15, 1215–1236 [doi:10.5194/tc-15-1215-2021](https://tc.copernicus.org/articles/15/1215/2021/)
+39) Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., **Agosta, C.**, Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface mass balance of Antarctica? An intercomparison of regional climate model estimates (2021), _The Cryosphere_, 15, 3751–3784, [doi:10.5194/tc-15-3751-2021](https://doi.org/10.5194/tc-15-3751-2021).
 
-38) Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., Agosta, C., Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A., van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T., Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface mass balance of Antarctica? An intercomparison of regional climate model estimates (2021), The Cryosphere, 15, 3751–3784, [doi:10.5194/tc-15-3751-2021](https://doi.org/10.5194/tc-15-3751-2021).
+38) Wille, J. D., Favier, V., Gorodetskaya, I. V., **Agosta, C.**, Kittel, C., Beeman, J. C., et al. (2021). Antarctic atmospheric river climatology and precipitation impacts. *Journal of Geophysical Research: Atmospheres*, 126, e2020JD033788. [doi:10.1029/2020JD033788](https://doi. org/10.1029/2020JD033788)
 
-37) Payne, A. J. et al. Future Sea Level Change Under Coupled Model Intercomparison Project Phase 5 and Phase 6 Scenarios From the Greenland and Antarctic Ice Sheets. Geophys Res Lett 48, (2021). [doi:10.1029/2020GL091741](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091741)
+= ISMIP6 community papers =
 
-36) Wille, J. D., Favier, V., Gorodetskaya, I. V., **Agosta, C.**, Kittel, C., Beeman, J. C., et al. (2021). Antarctic atmospheric river climatology and precipitation impacts. *Journal of Geophysical Research: Atmospheres*, 126, e2020JD033788. [doi:10.1029/2020JD033788](https://doi. org/10.1029/2020JD033788)
-  
+37) Edwards, T. L. et al. (2021) Projected land ice contributions to twenty-first-century sea level rise. *Nature*, 593, 74–82, [doi:10.1038/s41586-021-03302-y](https://www.nature.com/articles/s41586-021-03302-y)
+
+36) Payne, A. J. et al. (2021) Future Sea Level Change Under Coupled Model Intercomparison Project Phase 5 and Phase 6 Scenarios From the Greenland and Antarctic Ice Sheets. _Geophys Res Lett 48_. [doi:10.1029/2020GL091741](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL091741)
 
 **2020**
 
@@ -41,7 +42,7 @@ permalink: /publications/
 
 30) Goelzer H. et al. (2020) The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6, The Cryosphere, 14, 3071–3096, [doi:10.5194/tc-14-3071-2020](https://doi.org/10.5194/tc-14-3071-2020)
 
-29) Nowicki, S., Goelzer, H., Seroussi, H., Payne, A. J., Lipscomb, W. H., Abe-Ouchi, A., **Agosta, C.**, Alexander, P., Asay-Davis, X. S., Barthel, A., Bracegirdle, T. J., Cullather, R., Felikson, D., Fettweis, X., Gregory, J. M., Hattermann, T., Jourdain, N. C., Kuipers Munneke, P., Larour, E., Little, C. M., Morlighem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R. S., Straneo, F., Trusel, L. D., van den Broeke, M. R., and van de Wal, R.: Experimental protocol for sea level projections from ISMIP6 stand-alone ice sheet models. *The Cryosphere*, 14, 2331–2368, [doi:10.5194/tc-14-2331-2020](https://doi.org/10.5194/tc-14-2331-2020).
+29) Nowicki, S. et al. (2020) Experimental protocol for sea level projections from ISMIP6 stand-alone ice sheet models. *The Cryosphere*, 14, 2331–2368, [doi:10.5194/tc-14-2331-2020](https://doi.org/10.5194/tc-14-2331-2020).
 
 28) Seroussi H. et al. (2020) ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century, The Cryosphere, 14, 3033–3070, [doi:10.5194/tc-14-3033-2020](https://doi.org/10.5194/tc-14-3033-2020)
 
