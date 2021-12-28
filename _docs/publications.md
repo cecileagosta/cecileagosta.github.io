@@ -12,6 +12,8 @@ Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., 
 
 **2021**
 
+44) Diener T., Sasgen I., Agosta C., Fürst J.J., Braun M.H., Konrad H., Fettweis X. (2021) Acceleration of Dynamic Ice Loss in Antarctica From Satellite Gravimetry. _Frontiers Earth Sci_, 9, 741789 [doi:10.3389/feart.2021.741789](https://doi.org/10.3389/feart.2021.741789).
+
 43) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
 
 42) Beaumet, J., Déqué, M., Krinner, G., **Agosta, C.**, Alias, A., and Favier, V. (2021). Significant additional Antarctic warming in atmospheric bias-corrected ARPEGE projections with respect to control run, _The Cryosphere_, 15, 3615–3635, [doi:10.5194/tc-15-3615-2021](https://doi.org/10.5194/tc-15-3615-2021).
