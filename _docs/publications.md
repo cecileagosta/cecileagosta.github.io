@@ -10,6 +10,10 @@ Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., 
 
 ##### PUBLISHED
 
+**2022**
+
+45)  Wille J. D., Favier V., Jourdain N. C., Kittel C., Turton J. V., Agosta C., Gorodetskaya I. V., Picard G., Codron F., Leroy-Dos Santos C., Amory C., Fettweis X., Blanchet J., Jomelli V., Berchet A. (2022) Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications earth & environment_, 3, 90. [doi:10.1038/s43247-022-00422-9](https://www.nature.com/articles/s43247-022-00422-9)
+
 **2021**
 
 44) Diener T., Sasgen I., Agosta C., Fürst J.J., Braun M.H., Konrad H., Fettweis X. (2021) Acceleration of Dynamic Ice Loss in Antarctica From Satellite Gravimetry. _Frontiers Earth Sci_, 9, 741789 [doi:10.3389/feart.2021.741789](https://doi.org/10.3389/feart.2021.741789).
