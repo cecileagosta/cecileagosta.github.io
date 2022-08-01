@@ -4,19 +4,19 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
-##### IN DISCUSSION
-
-Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021, in review) Clouds drive differences in future surface melt over the Antarctic ice shelves, _The Cryosphere Discuss._ [preprint], [doi:10.5194/tc-2021-263](https://tc.copernicus.org/preprints/tc-2021-263/).
-
 ##### PUBLISHED
 
 **2022**
 
-45)  Wille J. D., Favier V., Jourdain N. C., Kittel C., Turton J. V., Agosta C., Gorodetskaya I. V., Picard G., Codron F., Leroy-Dos Santos C., Amory C., Fettweis X., Blanchet J., Jomelli V., Berchet A. (2022) Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications earth & environment_, 3, 90. [doi:10.1038/s43247-022-00422-9](https://www.nature.com/articles/s43247-022-00422-9)
+47) Akers, P. D., Savarino, J., Caillon, N., Servettaz, A. P. M., Le Meur, E., Magand, O., Martins, J., **Agosta, C.**, Crockford, P., Kobayashi, K., Hattori, S., Curran, M., van Ommen, T. and Jong, L., Roberts, J. L. (2022) Sunlight-driven nitrate loss records Antarctic surface mass balance, _Nature Communications_, 13, 4274, [doi:10.1038/s41467-022-31855-7](https://www.nature.com/articles/s41467-022-31855-7).
+
+46) Kittel, C., Amory, C., Hofer, S., **Agosta, C.**, Jourdain, N. C., Gilbert, E., Le Toumelin, L., Vignon, É., Gallée, H., and Fettweis, X. (2022) Clouds drive differences in future surface melt over the Antarctic ice shelves, The Cryosphere, 16, 2655–2669, [doi:10.5194/tc-16-2655-2022](https://tc.copernicus.org/articles/16/2655/2022/tc-16-2655-2022.html).
+
+45) Wille J. D., Favier V., Jourdain N. C., Kittel C., Turton J. V., **Agosta C.**, Gorodetskaya I. V., Picard G., Codron F., Leroy-Dos Santos C., Amory C., Fettweis X., Blanchet J., Jomelli V., Berchet A. (2022) Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications earth & environment_, 3, 90, [doi:10.1038/s43247-022-00422-9](https://www.nature.com/articles/s43247-022-00422-9).
 
 **2021**
 
-44) Diener T., Sasgen I., Agosta C., Fürst J.J., Braun M.H., Konrad H., Fettweis X. (2021) Acceleration of Dynamic Ice Loss in Antarctica From Satellite Gravimetry. _Frontiers Earth Sci_, 9, 741789 [doi:10.3389/feart.2021.741789](https://doi.org/10.3389/feart.2021.741789).
+44) Diener T., Sasgen I., **Agosta C.**, Fürst J.J., Braun M.H., Konrad H., Fettweis X. (2021) Acceleration of Dynamic Ice Loss in Antarctica From Satellite Gravimetry. _Frontiers Earth Sci_, 9, 741789, [doi:10.3389/feart.2021.741789](https://doi.org/10.3389/feart.2021.741789).
 
 43) Amory, C., Kittel, C., Le Toumelin, L., **Agosta, C.**, Delhasse, A., Favier, V., and Fettweis, X. (2021) Performance of MAR (v3.11) in simulating the drifting-snow climate and surface mass balance of Adélie Land, East Antarctica, *Geosci. Model Dev.*, 14, 3487–3510, [doi:10.5194/gmd-14-3487-2021](https://doi.org/10.5194/gmd-14-3487-2021).
 
