@@ -4,7 +4,15 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
+##### IN DISCUSSION
+
+Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (preprint, 2023) From atmospheric water isotopes measurement to firn core interpretation in Adelie Land: A case study for isotope-enabled atmospheric models in Antarctica, _EGUsphere_, [doi:10.5194/egusphere-2023-447](https://doi.org/10.5194/egusphere-2023-447). 
+
 ##### PUBLISHED
+
+**2023**
+
+48) Otosaka, I. N. et al. (2023) Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020, _Earth Syst. Sci. Data_, 15, 1597–1616, [doi:10.5194/essd-15-1597-2023](https://doi.org/10.5194/essd-15-1597-2023). 
 
 **2022**
 
