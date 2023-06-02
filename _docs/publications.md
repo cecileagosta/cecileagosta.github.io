@@ -12,6 +12,10 @@ Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Wer
 
 **2023**
 
+49) Roussel, Marie‐Laure, Valentin Wiener, Christophe Genthon, Etienne Vignon, Eric Bazile, **Cécile Agosta**, Alexis Berne, Claudio Durán‐Alarcón, Jean‐Louis Dufresne, et Chantal Claud (2023). Assessing the Simulation of Snowfall at Dumont d’Urville, Antarctica, during the YOPP‐SH Special Observing Campaign. _Quarterly Journal of the Royal Meteorological Society_, qj.4463, [doi:10.1002/qj.4463](https://doi.org/10.1002/qj.4463).
+
+= IMBIE community paper =
+
 48) Otosaka, I. N. et al. (2023) Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020, _Earth Syst. Sci. Data_, 15, 1597–1616, [doi:10.5194/essd-15-1597-2023](https://doi.org/10.5194/essd-15-1597-2023). 
 
 **2022**
