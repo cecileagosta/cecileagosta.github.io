@@ -6,6 +6,9 @@ permalink: /publications/
 
 ##### IN DISCUSSION
 
+Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C.(preprint, 2023) Understanding the drivers of near-surface winds in Adelie land, East Antarctica,  _EGUsphere -- The Cryosphere_, [doi:10.5194/egusphere-2023-2045](https://doi.org/10.5194/egusphere-2023-2045), 2023.
+
+
 Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (preprint, 2023) From atmospheric water isotopes measurement to firn core interpretation in Adelie Land: A case study for isotope-enabled atmospheric models in Antarctica, _EGUsphere -- The Cryosphere_, [doi:10.5194/egusphere-2023-447](https://doi.org/10.5194/egusphere-2023-447). 
 
 
