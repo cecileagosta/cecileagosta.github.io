@@ -12,10 +12,10 @@ Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C.(preprint, 202
 Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (preprint, 2023) From atmospheric water isotopes measurement to firn core interpretation in Adelie Land: A case study for isotope-enabled atmospheric models in Antarctica, _EGUsphere -- The Cryosphere_, [doi:10.5194/egusphere-2023-447](https://doi.org/10.5194/egusphere-2023-447). 
 
 
-Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (preprint, 2023) Abrupt excursion in water vapor isotopic variability during cold fronts at the Pointe Benedicte observatory in Amsterdam Island, _EGUsphere -- Atmospheric Chemistry and Physics_, https://doi.org/10.5194/egusphere-2023-1617.
+Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (preprint, 2023) Abrupt excursion in water vapor isotopic variability during cold fronts at the Pointe Benedicte observatory in Amsterdam Island, _EGUsphere -- Atmospheric Chemistry and Physics_, [doi:10.5194/egusphere-2023-1617](https://doi.org/10.5194/egusphere-2023-1617).
 
 
-Servettaz, A. P. M., Agosta, C., Kittel, C., and Orsi, A. J. (preprint, 2023) Control of the temperature signal in Antarctic proxies by snowfall dynamics, _EGUsphere -- The Cryosphere_, https://doi.org/10.5194/egusphere-2023-1903, 2023.
+Servettaz, A. P. M., Agosta, C., Kittel, C., and Orsi, A. J. (preprint, 2023) Control of the temperature signal in Antarctic proxies by snowfall dynamics, _EGUsphere -- The Cryosphere_, [doi:10.5194/egusphere-2023-1903](https://doi.org/10.5194/egusphere-2023-1903).
 
 
 ##### PUBLISHED
