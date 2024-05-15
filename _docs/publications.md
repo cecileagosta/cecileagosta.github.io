@@ -4,14 +4,9 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
-##### IN DISCUSSION
-
-Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C.(preprint, 2023) Understanding the drivers of near-surface winds in Adelie land, East Antarctica,  _EGUsphere -- The Cryosphere_, doi:[10.5194/egusphere-2023-2045](https://doi.org/10.5194/egusphere-2023-2045), 2023.
-
-
-##### PUBLISHED
-
 **2024**
+
+54) Davrinche, C., Orsi, A., Agosta, C., Amory, C., and Kittel, C.: Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, https://doi.org/10.5194/tc-18-2239-2024, 2024.  
 
 53) Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M.: Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, Atmos. Chem. Phys., 24, 4611–4634, https://doi.org/10.5194/acp-24-4611-2024, 2024.
 
