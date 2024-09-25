@@ -6,14 +6,14 @@ permalink: /publications/
 
 **2024**
 
-54) Davrinche, C., Orsi, A., Agosta, C., Amory, C., and Kittel, C.: Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, https://doi.org/10.5194/tc-18-2239-2024, 2024.  
+54) Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C. (2024). Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, doi:[10.5194/tc-18-2239-2024](https://doi.org/10.5194/tc-18-2239-2024).
 
-53) Landais, A., Agosta, C., Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M.: Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, Atmos. Chem. Phys., 24, 4611–4634, https://doi.org/10.5194/acp-24-4611-2024, 2024.
+53) Landais, A., **Agosta, C.**, Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (2024). Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, Atmos. Chem. Phys., 24, 4611–4634, doi:[10.5194/acp-24-4611-2024](https://doi.org/10.5194/acp-24-4611-2024).
 
 
 **2023**
 
-52) Leroy-Dos Santos, C., Fourré, E., Agosta, C., Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (2023) From atmospheric water isotopes measurement to firn core interpretation in Adélie Land: a case study for isotope-enabled atmospheric models in Antarctica, The Cryosphere, 17, 5241–5254, doi:[10.5194/tc-17-5241-2023](https://doi.org/10.5194/tc-17-5241-2023).
+52) Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (2023) From atmospheric water isotopes measurement to firn core interpretation in Adélie Land: a case study for isotope-enabled atmospheric models in Antarctica, The Cryosphere, 17, 5241–5254, doi:[10.5194/tc-17-5241-2023](https://doi.org/10.5194/tc-17-5241-2023).
 
 51) Roussel, Marie‐Laure, Valentin Wiener, Christophe Genthon, Etienne Vignon, Eric Bazile, **Cécile Agosta**, Alexis Berne, Claudio Durán‐Alarcón, Jean‐Louis Dufresne, et Chantal Claud (2023). Assessing the Simulation of Snowfall at Dumont d’Urville, Antarctica, during the YOPP‐SH Special Observing Campaign. _Quarterly Journal of the Royal Meteorological Society_, qj.4463, doi:[10.1002/qj.4463](https://doi.org/10.1002/qj.4463).
 
