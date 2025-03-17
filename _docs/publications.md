@@ -4,24 +4,31 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
+**2025**
+
+55) Dutrievoz, N., **Agosta, C.**, Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Ollivier, I., Jouzel, J., Minster, B., & Prié, F. (2025). Antarctic water stable isotopes
+in the global atmospheric model LMDZ6: From climatology to boundary layer
+processes. _Journal of Geophysical Research: Atmospheres_, 130 (5). doi:[10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
+
+
 **2024**
 
 54) Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C. (2024). Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, doi:[10.5194/tc-18-2239-2024](https://doi.org/10.5194/tc-18-2239-2024).
 
-53) Landais, A., **Agosta, C.**, Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (2024). Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, Atmos. Chem. Phys., 24, 4611–4634, doi:[10.5194/acp-24-4611-2024](https://doi.org/10.5194/acp-24-4611-2024).
+53) Landais, A., **Agosta, C.**, Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (2024). Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, _Atmos. Chem. Phys._, 24, 4611–4634, doi:[10.5194/acp-24-4611-2024](https://doi.org/10.5194/acp-24-4611-2024).
 
 
 **2023**
 
-52) Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (2023) From atmospheric water isotopes measurement to firn core interpretation in Adélie Land: a case study for isotope-enabled atmospheric models in Antarctica, The Cryosphere, 17, 5241–5254, doi:[10.5194/tc-17-5241-2023](https://doi.org/10.5194/tc-17-5241-2023).
+52) Leroy-Dos Santos, C., Fourré, E., **Agosta, C.**, Casado, M., Cauquoin, A., Werner, M., Minster, B., Prié, F., Jossoud, O., Petit, L., and Landais, A. (2023) From atmospheric water isotopes measurement to firn core interpretation in Adélie Land: a case study for isotope-enabled atmospheric models in Antarctica, _The Cryosphere_, 17, 5241–5254, doi:[10.5194/tc-17-5241-2023](https://doi.org/10.5194/tc-17-5241-2023).
 
 51) Roussel, Marie‐Laure, Valentin Wiener, Christophe Genthon, Etienne Vignon, Eric Bazile, **Cécile Agosta**, Alexis Berne, Claudio Durán‐Alarcón, Jean‐Louis Dufresne, et Chantal Claud (2023). Assessing the Simulation of Snowfall at Dumont d’Urville, Antarctica, during the YOPP‐SH Special Observing Campaign. _Quarterly Journal of the Royal Meteorological Society_, qj.4463, doi:[10.1002/qj.4463](https://doi.org/10.1002/qj.4463).
 
-50) Servettaz, A. P. M., Agosta, C., Kittel, C., and Orsi, A. J. (2023) Control of the temperature signal in Antarctic proxies by snowfall dynamics, The Cryosphere, 17, 5373–5389, doi:[10.5194/tc-17-5373-2023](https://doi.org/10.5194/tc-17-5373-2023).
+50) Servettaz, A. P. M., Agosta, C., Kittel, C., and Orsi, A. J. (2023) Control of the temperature signal in Antarctic proxies by snowfall dynamics, _The Cryosphere_, 17, 5373–5389, doi:[10.5194/tc-17-5373-2023](https://doi.org/10.5194/tc-17-5373-2023).
 
 = IMBIE community paper =
 
-49) Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe-Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Gregory, J. M., Greve, R., Hattermann, T., Hoffman, M. J., Humbert, A., Huybrechts, P., Jourdain, N. C., Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., Van Katwyk, P., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T., and Zwinger, T. (2023) Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty, The Cryosphere, 17, 5197–5217, doi:[10.5194/tc-17-5197-2023](https://doi.org/10.5194/tc-17-5197-2023).
+49) Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe-Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Gregory, J. M., Greve, R., Hattermann, T., Hoffman, M. J., Humbert, A., Huybrechts, P., Jourdain, N. C., Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., Van Katwyk, P., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T., and Zwinger, T. (2023) Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty, _The Cryosphere_, 17, 5197–5217, doi:[10.5194/tc-17-5197-2023](https://doi.org/10.5194/tc-17-5197-2023).
 
 48) Otosaka, I. N. et al. (2023) Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020, _Earth Syst. Sci. Data_, 15, 1597–1616, doi:[10.5194/essd-15-1597-2023](https://doi.org/10.5194/essd-15-1597-2023). 
 
