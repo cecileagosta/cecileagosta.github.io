@@ -4,11 +4,15 @@ permalink: /publications/
 ---
 #### INTERNATIONAL JOURNALS
 
+**In review**
+
+57) Davrinche, C., Orsi, A., Amory, C., Kittel, C., and **Agosta, C.** (preprint) Future changes in Antarctic near-surface winds: regional variability and key drivers under a high-emission scenario, _The Cryosphere Discussion_ [preprint], doi:[10.5194/egusphere-2025-1419](https://doi.org/10.5194/egusphere-2025-1419).
+
+56) Ollivier, I., Lauwers, T., Dutrievoz, N., **Agosta, C.**, Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., and Landais, A.  (preprint) Time series of the summertime diurnal variability in the atmospheric water vapour isotopic composition at Concordia station, East Antarctica, _Earth Syst. Sci. Data Discuss._ [preprint], doi:[doi:10.5194/essd-2025-35](https://doi.org/10.5194/essd-2025-35).
+
 **2025**
 
-55) Dutrievoz, N., **Agosta, C.**, Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Ollivier, I., Jouzel, J., Minster, B., & Prié, F. (2025). Antarctic water stable isotopes
-in the global atmospheric model LMDZ6: From climatology to boundary layer
-processes. _Journal of Geophysical Research: Atmospheres_, 130 (5). doi:[10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
+55) Dutrievoz, N., **Agosta, C.**, Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Ollivier, I., Jouzel, J., Minster, B., & Prié, F. (2025). Antarctic water stable isotopes in the global atmospheric model LMDZ6: From climatology to boundary layer processes. _Journal of Geophysical Research: Atmospheres_, 130 (5). doi:[10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
 
 
 **2024**
@@ -26,9 +30,11 @@ processes. _Journal of Geophysical Research: Atmospheres_, 130 (5). doi:[10.1029
 
 50) Servettaz, A. P. M., Agosta, C., Kittel, C., and Orsi, A. J. (2023) Control of the temperature signal in Antarctic proxies by snowfall dynamics, _The Cryosphere_, 17, 5373–5389, doi:[10.5194/tc-17-5373-2023](https://doi.org/10.5194/tc-17-5373-2023).
 
-= IMBIE community paper =
+= ISMIP6 community paper =
 
 49) Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe-Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Gregory, J. M., Greve, R., Hattermann, T., Hoffman, M. J., Humbert, A., Huybrechts, P., Jourdain, N. C., Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., Van Katwyk, P., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T., and Zwinger, T. (2023) Insights into the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty, _The Cryosphere_, 17, 5197–5217, doi:[10.5194/tc-17-5197-2023](https://doi.org/10.5194/tc-17-5197-2023).
+
+= IMBIE community paper =
 
 48) Otosaka, I. N. et al. (2023) Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020, _Earth Syst. Sci. Data_, 15, 1597–1616, doi:[10.5194/essd-15-1597-2023](https://doi.org/10.5194/essd-15-1597-2023). 
 
