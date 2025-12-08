@@ -6,20 +6,30 @@ permalink: /publications/
 
 **In review**
 
-57) Davrinche, C., Orsi, A., Amory, C., Kittel, C., and **Agosta, C.** (preprint) Future changes in Antarctic near-surface winds: regional variability and key drivers under a high-emission scenario, _The Cryosphere Discussion_ [preprint], doi:[10.5194/egusphere-2025-1419](https://doi.org/10.5194/egusphere-2025-1419).
+61) Dutrievoz, N., **Agosta, C.**, Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., and Prié, F. (preprint, 2025) Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica, _The Cryosphere Discussion_ [preprint], https://doi.org/10.5194/egusphere-2025-2590.
 
-56) Ollivier, I., Lauwers, T., Dutrievoz, N., **Agosta, C.**, Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., and Landais, A.  (preprint) Time series of the summertime diurnal variability in the atmospheric water vapour isotopic composition at Concordia station, East Antarctica, _Earth Syst. Sci. Data Discuss._ [preprint], doi:[doi:10.5194/essd-2025-35](https://doi.org/10.5194/essd-2025-35).
+60) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], https://doi.org/10.5194/egusphere-2025-3188.
+
+59) Tcheng, T., Fourré, E., Leroy-Dos-Santos, C., Parrenin, F., Le Meur, E., Prié, F., Jossoud, O., Jacob, R., Minster, B., Magand, O., **Agosta, C.**, Dutrievoz, N., Favier, V., Baubant, L., Lassalle-Bernard, C., Casado, M., Werner, M., Cauquoin, A., Arnaud, L., Jourdain, B., Picard, G., Bouchet, M., and Landais, A. (preprint, 2025) Multiproxy analyses of multiple firn cores from coastal Adélie Land covering the last 40 years, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-2863.
+
+58) Vignon, É., Chiabrando, N., Agosta, C., Amory, C., Wiener, V., Charrel, J., Dubos, T., and Genthon, C. (preprint, 2025) Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica, _Geoscientific Model Development Discussion_ [preprint], https://doi.org/10.5194/egusphere-2025-2871.
 
 **2025**
 
-55) Dutrievoz, N., **Agosta, C.**, Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Ollivier, I., Jouzel, J., Minster, B., & Prié, F. (2025). Antarctic water stable isotopes in the global atmospheric model LMDZ6: From climatology to boundary layer processes. _Journal of Geophysical Research: Atmospheres_, 130 (5). doi:[10.1029/2024JD042073](https://doi.org/10.1029/2024JD042073)
+58) Davrinche, C., Orsi, A., Amory, C., Kittel, C., and **Agosta, C.**: Future changes in Antarctic near-surface winds (2025) regional variability and key drivers under a high-emission scenario, The Cryosphere, 19, 6023–6042, https://doi.org/10.5194/tc-19-6023-2025.
+
+57) Ollivier, I., Lauwers, T., Dutrievoz, N., **Agosta, C.**, Casado, M., Fourré, E., Genthon, C., Jossoud, O., Prié, F., Steen-Larsen, H. C., and Landais, A. (2025) Time series of the summertime atmospheric water vapour isotopic composition at Concordia station, East Antarctica, Earth Syst. Sci. Data, 17, 5655–5674, https://doi.org/10.5194/essd-17-5655-2025.
+
+56) Dutrievoz, N., **Agosta, C.**, Risi, C., Vignon, É., Nguyen, S., Landais, A., Fourré, E., Leroy-Dos Santos, C., Casado, M., Ollivier, I., Jouzel, J., Minster, B., & Prié, F. (2025). Antarctic water stable isotopes in the global atmospheric model LMDZ6: From climatology to boundary layer processes. _Journal of Geophysical Research: Atmospheres_, 130 (5), https://doi.org/10.1029/2024JD042073.
+
+55) Wille, J., et al. (2025) Atmospheric Rivers in Antarctica. _Nature Reviews Earth & Environment_, 6 (3), 178–192, https://doi.org/10.1038/s43017-024-00638-7.
 
 
 **2024**
 
-54) Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C. (2024). Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, doi:[10.5194/tc-18-2239-2024](https://doi.org/10.5194/tc-18-2239-2024).
+54) Davrinche, C., Orsi, A., **Agosta, C.**, Amory, C., and Kittel, C. (2024). Understanding the drivers of near-surface winds in Adélie Land, East Antarctica, The Cryosphere, 18, 2239–2256, https://doi.org/10.5194/tc-18-2239-2024.
 
-53) Landais, A., **Agosta, C.**, Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (2024). Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, _Atmos. Chem. Phys._, 24, 4611–4634, doi:[10.5194/acp-24-4611-2024](https://doi.org/10.5194/acp-24-4611-2024).
+53) Landais, A., **Agosta, C.**, Vimeux, F., Magand, O., Solis, C., Cauquoin, A., Dutrievoz, N., Risi, C., Leroy-Dos Santos, C., Fourré, E., Cattani, O., Jossoud, O., Minster, B., Prié, F., Casado, M., Dommergue, A., Bertrand, Y., and Werner, M. (2024). Abrupt excursions in water vapor isotopic variability at the Pointe Benedicte observatory on Amsterdam Island, _Atmos. Chem. Phys._, 24, 4611–4634, https://doi.org/10.5194/acp-24-4611-2024.
 
 
 **2023**
