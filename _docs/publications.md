@@ -6,13 +6,16 @@ permalink: /publications/
 
 **In review**
 
-61) Dutrievoz, N., **Agosta, C.**, Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., and Prié, F. (preprint, 2025) Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-2590](https://doi.org/10.5194/egusphere-2025-2590).
+62) Dutrievoz, N., **Agosta, C.**, Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., and Prié, F. (preprint, 2025) Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-2590](https://doi.org/10.5194/egusphere-2025-2590).
 
-60) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188).
+61) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188).
 
-59) Tcheng, T., Fourré, E., Leroy-Dos-Santos, C., Parrenin, F., Le Meur, E., Prié, F., Jossoud, O., Jacob, R., Minster, B., Magand, O., **Agosta, C.**, Dutrievoz, N., Favier, V., Baubant, L., Lassalle-Bernard, C., Casado, M., Werner, M., Cauquoin, A., Arnaud, L., Jourdain, B., Picard, G., Bouchet, M., and Landais, A. (preprint, 2025) Multiproxy analyses of multiple firn cores from coastal Adélie Land covering the last 40 years, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-2863](https://doi.org/10.5194/egusphere-2025-2863).
+60) Tcheng, T., Fourré, E., Leroy-Dos-Santos, C., Parrenin, F., Le Meur, E., Prié, F., Jossoud, O., Jacob, R., Minster, B., Magand, O., **Agosta, C.**, Dutrievoz, N., Favier, V., Baubant, L., Lassalle-Bernard, C., Casado, M., Werner, M., Cauquoin, A., Arnaud, L., Jourdain, B., Picard, G., Bouchet, M., and Landais, A. (preprint, 2025) Multiproxy analyses of multiple firn cores from coastal Adélie Land covering the last 40 years, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-2863](https://doi.org/10.5194/egusphere-2025-2863).
 
-58) Vignon, É., Chiabrando, N., Agosta, C., Amory, C., Wiener, V., Charrel, J., Dubos, T., and Genthon, C. (preprint, 2025) Intermediate-complexity Parameterisation of Blowing Snow in the ICOLMDZ AGCM: development and first applications in Antarctica, _Geoscientific Model Development Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-2871](https://doi.org/10.5194/egusphere-2025-2871).
+
+**2026**
+
+59) Vignon, É., Chiabrando, N., Agosta, C., Amory, C., Wiener, V., Charrel, J., Dubos, T., and Genthon, C.: Intermediate-complexity parameterisation of blowing snow in the ICOLMDZ AGCM: development and first applications in Antarctica, Geosci. Model Dev., 19, 239–259, https://doi.org/10.5194/gmd-19-239-2026, 2026.
 
 **2025**
 
