@@ -6,6 +6,8 @@ permalink: /publications/
 
 **In review**
 
+64) Conesa, P., **Agosta, C.**, Charbit, S., Dumas, C., Beylat, S., and Raoult, N. (preprint, 2025) Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-5504](https://doi.org/10.5194/egusphere-2025-5504).
+
 63) Dutrievoz, N., **Agosta, C.**, Davrinche, C., Landais, A., Nguyen, S., Vignon, É., Ollivier, I., Leroy-Dos Santos, C., Fourré, E., Casado, M., Wille, J., Favier, V., Minster, B., and Prié, F. (preprint, 2025) Water vapour isotope anomalies during an atmospheric river event at Dome C, East Antarctica, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-2590](https://doi.org/10.5194/egusphere-2025-2590).
 
 62) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188).
