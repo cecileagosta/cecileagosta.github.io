@@ -17,7 +17,9 @@ permalink: /publications/
 
 **2026**
 
-60) Fields M, Bassis J, Kachuck S, Moldwin MB, and **Agosta C.** (2026) Evaluating CMIP6 Models for Near-Surface Air Temperature Projections over Antarctic Ice Shelves. _Journal of Glaciology_. Published online 2026:1-47. [doi:10.1017/jog.2025.10121](https://doi.org/10.1017/jog.2025.10121]).
+61) Bong H., LeGrande A.N., Dee S.G., J. Zhu, A. Cauquoin, R. P. Fiorella, Q. Ding, N. Dutrievoz, M. Tanoue, M. Frazer, M. Sarkar, C. Agosta, K. Yoshimura, M. Werner, A. Okazaki, C. Risi, H.C. Steen-Larsen, M. Casado, S. Wahl, J. Nusbaumer, J. R. Worden, S. Paul Good, A. Bailey, M. Schneider, S. Noel, S. Mandal, K. W. Bowman, Y. Li, G.A. Schmidt (2026) Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate. ESS Open Archive, https://doi.org/10.22541/essoar.175330911.17791287/v1. Accepted in Journal of Geophysical Research - Atmospheres. 
+
+60) Fields M, Bassis J, Kachuck S, Moldwin MB, and **Agosta C.** (2026) Evaluating CMIP6 Models for Near-Surface Air Temperature Projections over Antarctic Ice Shelves. _Journal of Glaciology_. Published online 2026:1-47. [https://doi.org/10.1017/jog.2025.10121](https://doi.org/10.1017/jog.2025.10121).
 
 59) Vignon, É., Chiabrando, N., **Agosta, C.**, Amory, C., Wiener, V., Charrel, J., Dubos, T., and Genthon, C. (2026) Intermediate-complexity parameterisation of blowing snow in the ICOLMDZ AGCM: development and first applications in Antarctica, _Geosci. Model Dev._, 19, 239–259, [https://doi.org/10.5194/gmd-19-239-2026](https://doi.org/10.5194/gmd-19-239-2026).
 
