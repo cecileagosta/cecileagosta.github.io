@@ -17,7 +17,7 @@ permalink: /publications/
 
 **2026**
 
-61) Bong H., LeGrande A.N., Dee S.G., J. Zhu, A. Cauquoin, R. P. Fiorella, Q. Ding, N. Dutrievoz, M. Tanoue, M. Frazer, M. Sarkar, C. Agosta, K. Yoshimura, M. Werner, A. Okazaki, C. Risi, H.C. Steen-Larsen, M. Casado, S. Wahl, J. Nusbaumer, J. R. Worden, S. Paul Good, A. Bailey, M. Schneider, S. Noel, S. Mandal, K. W. Bowman, Y. Li, G.A. Schmidt (2026) Water Isotope Model Intercomparison Project (WisoMIP): Present-day Climate. ESS Open Archive, https://doi.org/10.22541/essoar.175330911.17791287/v1. Accepted in Journal of Geophysical Research - Atmospheres. 
+61) Bong H., LeGrande A.N., Dee S.G., J. Zhu, A. Cauquoin, R. P. Fiorella, Q. Ding, N. Dutrievoz, M. Tanoue, M. Frazer, M. Sarkar, C. Agosta, K. Yoshimura, M. Werner, A. Okazaki, C. Risi, H.C. Steen-Larsen, M. Casado, S. Wahl, J. Nusbaumer, J. R. Worden, S. Paul Good, A. Bailey, M. Schneider, S. Noel, S. Mandal, K. W. Bowman, Y. Li, G.A. Schmidt (2026) Water Isotope Model Intercomparison Project (WisoMIP): Present-day climate. Journal of Geophysical Research: Atmospheres, 131, e2025JD044985. https://doi.org/10.1029/2025JD044985
 
 60) Fields M, Bassis J, Kachuck S, Moldwin MB, and **Agosta C.** (2026) Evaluating CMIP6 Models for Near-Surface Air Temperature Projections over Antarctic Ice Shelves. _Journal of Glaciology_. Published online 2026:1-47. [https://doi.org/10.1017/jog.2025.10121](https://doi.org/10.1017/jog.2025.10121).
 
