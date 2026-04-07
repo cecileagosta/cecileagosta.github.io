@@ -6,10 +6,11 @@ permalink: /publications/
 
 **In review**
 
-65) Conesa, P., **Agosta, C.**, Charbit, S., Dumas, C., Beylat, S., and Raoult, N. (preprint, 2025) Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-5504](https://doi.org/10.5194/egusphere-2025-5504).
+66) Conesa, P., **Agosta, C.**, Charbit, S., Dumas, C., Beylat, S., and Raoult, N. (preprint, 2025) Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-5504](https://doi.org/10.5194/egusphere-2025-5504).
 
-64) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188).
+65) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., **Agosta, C.**, Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.  (preprint, 2025) Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-3188](https://doi.org/10.5194/egusphere-2025-3188).
 
+64) Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., Dutrievoz, N., **Agosta, C.**, Masson-Delmotte, V., Combacal, T., Gautier, E., and Minster, B. (preprint, 2026) Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2026-871](https://doi.org/10.5194/egusphere-2026-871).
 
 
 **2026**
