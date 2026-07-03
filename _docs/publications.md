@@ -15,7 +15,7 @@ permalink: /publications/
 
 **2026**
 
-65) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B.: Air Mass Origin Effects on Antarctic Snow Isotopic Composition: An Observation and Modelling Study, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-3188, 2025.
+65) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B. (2026) Air mass origin and local impacts on Antarctic snow isotopic composition: an observation and modelling study, _The Cryosphere_, 20, 3581–3598, [https://doi.org/10.5194/tc-20-3581-2026](https://doi.org/10.5194/tc-20-3581-2026) [\<hal-05677696\>](https://hal.science/hal-05677696)
 
 64) Bong H., LeGrande A.N., Dee S.G., J. Zhu, A. Cauquoin, R. P. Fiorella, Q. Ding, N. Dutrievoz, M. Tanoue, M. Frazer, M. Sarkar, **C. Agosta**, K. Yoshimura, M. Werner, A. Okazaki, C. Risi, H.C. Steen-Larsen, M. Casado, S. Wahl, J. Nusbaumer, J. R. Worden, S. Paul Good, A. Bailey, M. Schneider, S. Noel, S. Mandal, K. W. Bowman, Y. Li, G.A. Schmidt (2026) Water Isotope Model Intercomparison Project (WisoMIP): Present-day climate. _Journal of Geophysical Research: Atmospheres_, 131, e2025JD044985, [https://doi.org/10.1029/2025JD044985](https://doi.org/10.1029/2025JD044985). [\<hal-05509476\>](https://hal.science/hal-05509476)
 
