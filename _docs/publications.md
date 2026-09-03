@@ -6,14 +6,14 @@ permalink: /publications/
 
 **In review**
 
-68) Conesa, P., **Agosta, C.**, Charbit, S., Dumas, C., Beylat, S., and Raoult, N. (preprint, 2025) Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model, _The Cryosphere Discussion_ [preprint], [https://doi.org/10.5194/egusphere-2025-5504](https://doi.org/10.5194/egusphere-2025-5504).
+68) Dutrievoz, N., **Agosta, C.**, Vignon E., Wahl S., Casado M., Ooms A., Nguyen S., Landais A., Fourré E., Minster B., and Prié F. (preprint, 2026) Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica, _ESS Open Archive, JAMES_ [preprint], [https://doi.org/10.22541/essoar.15002511/v1](https://doi.org/10.22541/essoar.15002511/v1).
 
-67) Dutrievoz, N., **Agosta, C.**, Vignon E., Wahl S., Casado M., Ooms A., Nguyen S., Landais A., Fourré E., Minster B., and Prié F. (preprint, 2026) Improving isotopic surface fluxes over snow in LMDZ6iso: evaluation at Dome C, East Antarctica, _ESS Open Archive, JAMES_ [preprint], [https://doi.org/10.22541/essoar.15002511/v1](https://doi.org/10.22541/essoar.15002511/v1).
-
-66) Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., Dutrievoz, N., **Agosta, C.**, Masson-Delmotte, V., Combacal, T., Gautier, E., and Minster, B. (preprint, 2026) Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling, _EGUsphere_ [preprint], [https://doi.org/10.5194/egusphere-2026-871](https://doi.org/10.5194/egusphere-2026-871).
+67) Samin, E., Landais, A., Fourré, E., Casado, M., Ooms, A., Dutrievoz, N., **Agosta, C.**, Masson-Delmotte, V., Combacal, T., Gautier, E., and Minster, B. (preprint, 2026) Post-deposition processes affecting water stable isotope records at Little Dome C, Antarctica: new records from two firn cores and virtual firn core modelling, _EGUsphere_ [preprint], [https://doi.org/10.5194/egusphere-2026-871](https://doi.org/10.5194/egusphere-2026-871).
 
 
 **2026**
+
+66) Conesa, P., Agosta, C., Charbit, S., Dumas, C., Beylat, S., and Raoult, N. (2026) Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model, _The Cryosphere_, 20, 4973–5003, [https://doi.org/10.5194/tc-20-4973-2026](https://doi.org/10.5194/tc-20-4973-2026) [\<hal-05736938\>](https://hal.science/hal-05736938)
 
 65) Petteni, A., Casado, M., Leroy-Dos Santos, C., Landais, A., Dutrievoz, N., Agosta, C., Akers, P. D., Savarino, J., Spolaor, A., Frezzotti, M., and Stenni, B. (2026) Air mass origin and local impacts on Antarctic snow isotopic composition: an observation and modelling study, _The Cryosphere_, 20, 3581–3598, [https://doi.org/10.5194/tc-20-3581-2026](https://doi.org/10.5194/tc-20-3581-2026) [\<hal-05677696\>](https://hal.science/hal-05677696)
 
